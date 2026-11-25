@@ -1,4 +1,4 @@
-# Okoret UI
+# Okoret UI Kit
 
 <p align="center">
   <img src="public/okoret.svg" alt="Okoret UI" width="72" height="72" />
@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kali23041/Okoret-UI/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/kali23041/Okoret-UI?style=flat&color=0891b2" /></a>
-  <a href="https://github.com/kali23041/Okoret-UI/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/kali23041/Okoret-UI?color=0b1220" /></a>
-  <a href="https://github.com/kali23041/Okoret-UI"><img alt="React" src="https://img.shields.io/badge/React-19-61dafb?logo=react&logoColor=white" /></a>
-  <a href="https://github.com/kali23041/Okoret-UI"><img alt="Vite" src="https://img.shields.io/badge/Vite-7-646cff?logo=vite&logoColor=white" /></a>
-  <a href="https://github.com/kali23041/Okoret-UI"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-4-38bdf8?logo=tailwindcss&logoColor=white" /></a>
+  <a href="https://github.com/kali23041/okoret-ui-kit/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/kali23041/okoret-ui-kit?style=flat&color=0891b2" /></a>
+  <a href="https://github.com/kali23041/okoret-ui-kit/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/kali23041/okoret-ui-kit?color=0b1220" /></a>
+  <a href="https://github.com/kali23041/okoret-ui-kit"><img alt="React" src="https://img.shields.io/badge/React-19-61dafb?logo=react&logoColor=white" /></a>
+  <a href="https://github.com/kali23041/okoret-ui-kit"><img alt="Vite" src="https://img.shields.io/badge/Vite-7-646cff?logo=vite&logoColor=white" /></a>
+  <a href="https://github.com/kali23041/okoret-ui-kit"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-4-38bdf8?logo=tailwindcss&logoColor=white" /></a>
   <img alt="Effects" src="https://img.shields.io/badge/Effects-100-22d3ee" />
 </p>
 
@@ -64,8 +64,8 @@ Okoret UI is a **controlled surface-area** library: fewer primitives, stronger d
 ## Quick start
 
 ```bash
-git clone https://github.com/kali23041/Okoret-UI.git
-cd Okoret-UI
+git clone https://github.com/kali23041/okoret-ui-kit.git
+cd okoret-ui-kit
 npm install
 npm run dev
 ```
@@ -240,7 +240,7 @@ Preference is stored in `localStorage` under `okoret-theme`, with system prefere
 ## Project structure
 
 ```
-Okoret-UI/
+okoret-ui-kit/
 ├── public/okoret.svg
 ├── docs/screenshots/     # README previews
 ├── src/
@@ -295,7 +295,7 @@ Okoret UI is a flagship open-source project by **[Kartik Sabale](https://kartiks
 | **Role** | Creator & maintainer |
 | **Portfolio** | [kartiksabale.com](https://kartiksabale.com) |
 | **GitHub** | [@kali23041](https://github.com/kali23041) |
-| **Repo** | [github.com/kali23041/Okoret-UI](https://github.com/kali23041/Okoret-UI) |
+| **Repo** | [github.com/kali23041/okoret-ui-kit](https://github.com/kali23041/okoret-ui-kit) |
 
 **Portfolio talking points**
 
